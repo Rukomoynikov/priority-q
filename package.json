@@ -1,0 +1,31 @@
+{
+  "name": "priority-q",
+  "version": "0.0.1",
+  "description": "PriorityQueue that supports objects as values. Fully typed and has 100% test coverage. ",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rukomoynikov/priority-q.git"
+  },
+  "keywords": [
+    "heaps",
+    "priority-queue",
+    "typescript",
+    "data",
+    "structure"
+  ],
+  "author": "Max Rukomoynikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rukomoynikov/priority-q/issues"
+  },
+  "homepage": "https://github.com/Rukomoynikov/priority-q#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5"
+  }
+}
